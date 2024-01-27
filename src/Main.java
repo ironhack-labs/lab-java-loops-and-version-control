@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] numbersArray = {2,3,4,3,1,4,12};
+        int[] numbersArray = {1,2,2,4,12};
         System.out.println(difference(numbersArray)); // Result Task 1
         getSmallestAndSecondSmallest(numbersArray); // Result Task 2
         int x = 2;
@@ -22,10 +22,19 @@ public class Main {
     }
 
     // method Task 2
-    public static void getSmallestAndSecondSmallest(int[] numbersArray){
+    public static void getSmallestAndSecondSmallest(int[] numbersArray) {
         Arrays.sort(numbersArray);
-        System.out.println(numbersArray[0] + " " + numbersArray[1]);
+        int smallestIndex = numbersArray[0];
+        int secondSmallestIndex = numbersArray[1]; // Initialize to the second element
+        for (int i = 1; i < numbersArray.length; i++) { // Start from the second element
+            if (numbersArray[i] != smallestIndex) { // Find the second smallest distinct element
+                secondSmallestIndex = numbersArray[i];
+                break; // Exit loop once found
+            }
+        }
+        System.out.println(smallestIndex + " " + secondSmallestIndex);
     }
+
 
     // method Task 3
     public static double calculateMathExpression(int x, int y){
