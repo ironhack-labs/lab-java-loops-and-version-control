@@ -12,8 +12,8 @@ public class Main {
 
     // method Task 1
     public static int difference(int[] numbersArray){
-        int largestNumber = 0;
-        int smallestNumber = 0;
+        int largestNumber = Integer.MIN_VALUE;
+        int smallestNumber = Integer.MAX_VALUE;
         for(int number : numbersArray){
            if(number < smallestNumber) smallestNumber = number;
            if(number > largestNumber) largestNumber = number;
@@ -28,9 +28,10 @@ public class Main {
     }
 
     // method Task 3
-    public static int calculateMathExpression(int x, int y){
+    public static double calculateMathExpression(int x, int y){
 
-        return  x * x + ((4*y / 5) - x) * ((4*y/ 5)- x);
+        return  Math.pow(x, 2) - Math.pow(((4.0 * y) / 5),2);
+
     }
 
 
