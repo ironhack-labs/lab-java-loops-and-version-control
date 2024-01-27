@@ -13,6 +13,13 @@ public class Main {
             return nums[0];
         }
 
+        /*
+        FEEDBACK -> evitar la mutación del array original al ordenarlo
+            int[] sortedNums = Arrays.copyOf(nums, nums.length);
+            Arrays.sort(sortedNums);
+            return sortedNums[sortedNums.length - 1] - sortedNums[0];
+        */
+
         Arrays.sort(nums);
         return nums[nums.length - 1] - nums[0];
     }
