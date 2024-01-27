@@ -12,6 +12,7 @@ public class Main {
         //TASK 2
         twoSmall(nb);
 
+
         //TASK 3
         int x = 4;
         int y = 5;
