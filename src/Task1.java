@@ -40,25 +40,14 @@ public class Task1 {
     }
 
     public static int validInt(Scanner scanner, String mensaje) {
-        int number;
-
         while (true) {
             try {
                 System.out.print(mensaje);
-                String input = scanner.next();
-                number = Integer.parseInt(input);
-
-                if (number >= Integer.MIN_VALUE && number <= Integer.MAX_VALUE) {
-                    break;
-                } else {
-                    System.out.println("El número ingresado está fuera del rango de enteros. Inténtelo nuevamente.");
-                }
+                return Integer.parseInt(scanner.next());
             } catch (NumberFormatException e) {
                 System.out.println("Entrada no válida. Por favor, ingrese un número entero válido.");
             }
         }
-
-        return number;
     }
 
     public static int findMaxMinusMin(int[] array) {

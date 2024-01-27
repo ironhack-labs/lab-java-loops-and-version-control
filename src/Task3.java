@@ -1,14 +1,14 @@
 
 public class Task3 {
     public static void main(String[] args) {
-        int x = 5;
-        int y = 10;
+        double x = 5;
+        double y = 10;
 
-        int term1 = x * x;
-        int term2 = ((y * 4) / 5 - x);
-        int term3 = term2 * term2;
+        double term1 = Math.pow(x , 2);
+        double term2 = y * 4 / 5 - x;
+        double term3 = Math.pow(term2, 2);
 
-        int result = term1 + term3;
+        double result = term1 + term3;
         System.out.println(result);
     }
 }

@@ -38,36 +38,27 @@ public class Task2 {
     }
 
     public static int validInt(Scanner scanner, String mensaje) {
-        int number;
-
         while (true) {
             try {
                 System.out.print(mensaje);
-                String input = scanner.next();
-                number = Integer.parseInt(input);
-
-                if (number >= Integer.MIN_VALUE && number <= Integer.MAX_VALUE) {
-                    break;
-                } else {
-                    System.out.println("El número ingresado está fuera del rango de enteros. Inténtelo nuevamente.");
-                }
+                return Integer.parseInt(scanner.next());
             } catch (NumberFormatException e) {
                 System.out.println("Entrada no válida. Por favor, ingrese un número entero válido.");
             }
         }
-
-        return number;
     }
 
     public static void findTwoMins(int[] array) {
-        int min = array[0];
-        int min2 = array[0];
+        int min = Integer.MAX_VALUE;
+        int min2 = Integer.MAX_VALUE;
 
         for (int number : array) {
             if (number < min) {
+                min2 = min;
                 min = number;
+
             }
-            if ((number > min && number < min2) || min == min2) {
+            else if (number < min2 && number != min) {
                 min2 = number;
             }
         }
