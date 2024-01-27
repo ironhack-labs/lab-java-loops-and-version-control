@@ -62,8 +62,8 @@ public class Task1 {
     }
 
     public static int findMaxMinusMin(int[] array) {
-        int max = Integer.MIN_VALUE;
-        int min = Integer.MAX_VALUE;
+        int max = array[0];
+        int min = array[0];
 
         for (int number : array) {
             if (number > max) {
