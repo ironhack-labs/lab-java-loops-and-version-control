@@ -1,9 +1,14 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-        int[] numbersArray = {2,3,4,9,6,7,8};
-        System.out.println(difference(numbersArray));
+        int[] numbersArray = {2,3,4,3,1,4,12};
+        System.out.println(difference(numbersArray)); // Result Task 1
+        getSmallestAndSecondSmallest(numbersArray);
+        System.out.println(calculateMathExpression(2,3)); // Result Task 3
     }
 
+    // method Task 1
     public static int difference(int[] numbersArray){
         int largestNumber = 0;
         int smallestNumber = 0;
@@ -13,4 +18,17 @@ public class Main {
         }
         return largestNumber - smallestNumber;
     }
+
+    // method Task 2
+    public static void getSmallestAndSecondSmallest(int[] numbersArray){
+        Arrays.sort(numbersArray);
+        System.out.println(numbersArray[0] + " " + numbersArray[1]);
+    }
+
+    // method Task 3
+    public static int calculateMathExpression(int x, int y){
+        return  x * x + ((4*y / 5) - x) * ((4*y/ 5)- x);
+    }
+
+
 }
