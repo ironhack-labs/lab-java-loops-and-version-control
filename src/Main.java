@@ -4,8 +4,10 @@ public class Main {
     public static void main(String[] args) {
         int[] numbersArray = {2,3,4,3,1,4,12};
         System.out.println(difference(numbersArray)); // Result Task 1
-        getSmallestAndSecondSmallest(numbersArray);
-        System.out.println(calculateMathExpression(2,3)); // Result Task 3
+        getSmallestAndSecondSmallest(numbersArray); // Result Task 2
+        int x = 2;
+        int y = 3;
+        System.out.println(calculateMathExpression(x,y)); // Result Task 3
     }
 
     // method Task 1
@@ -27,6 +29,7 @@ public class Main {
 
     // method Task 3
     public static int calculateMathExpression(int x, int y){
+
         return  x * x + ((4*y / 5) - x) * ((4*y/ 5)- x);
     }
 
