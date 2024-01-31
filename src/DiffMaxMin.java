@@ -3,15 +3,15 @@ public class DiffMaxMin {
         if (numbers.length < 1) {
             System.err.println("The length of the array must be at least 1");
         }
-        int max = 0;
-        int min = 0;
+        int max = numbers[0];
+        int min = numbers[0];
 
-        for (int i = 0; i < numbers.length; i++) {
-            if (numbers[i] < min || i == 0) {
+        for (int i = 1; i < numbers.length; i++) {
+            if (numbers[i] < min) {
                 min = numbers[i];
             }
 
-            if (numbers[i] > max || i == 0) {
+            if (numbers[i] > max) {
                 max = numbers[i];
             }
         }
