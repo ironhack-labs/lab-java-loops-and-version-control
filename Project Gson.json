@@ -1,0 +1,22 @@
+{
+  "name": "Magret",
+  "age": 39,
+  "profession": "Professional dancer",
+  "favoriteColor": {
+    "code": "A247",
+    "name": "Blue"
+  },
+  "Football-Favorite-Players": [
+    "<Mesi",
+    "Ronaldo",
+    "Nehman"
+  ],
+  "favoriteFood": [
+    {
+      "name": "Rice"
+    },
+    {
+      "name": "Jolouf"
+    }
+  ]
+}
