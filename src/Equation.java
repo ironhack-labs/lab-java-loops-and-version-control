@@ -8,4 +8,3 @@
             System.out.println("Calculation Result: " + calcResult);
         }
     }
-
