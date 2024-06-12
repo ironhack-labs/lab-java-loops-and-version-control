@@ -17,7 +17,7 @@
                         secondSmallest = arr[i];
                     }
                 }
-//                 PRINT
+          //           PRINT
                 System.out.println("Smallest is: " + smallest);
                 System.out.println("Second smallest is: " + secondSmallest);
             }

@@ -1,11 +1,9 @@
-import java.util.Arrays;
-
 public class MinMax {
     public static int MinMax(int[] array) {
         if (array.length == 0) {
             return 0;
         }
-
+//        VARIABLES
         int maxNum = Integer.MIN_VALUE;
         int minNum = Integer.MAX_VALUE;
 
