@@ -1,3 +1,5 @@
+
+//Task 1
 public class Lab1 {
     public Lab1() {
     }
@@ -17,7 +19,7 @@ public class Lab1 {
                 smallest1 = array[i];
             }
         }
-
+//Task 2
         i = largest - smallest1;
         System.out.println("Difference between the largest and smallest values: " + i);
         int smallest = Integer.MAX_VALUE;
@@ -34,6 +36,8 @@ public class Lab1 {
 
         System.out.println("Smallest element: " + smallest);
         System.out.println("Second smallest element: " + secondSmallest);
+
+//Task 3
         int x = 3;
         int y = 5;
         double result = Math.pow((double)x, 2.0) + Math.pow(4.0 * (double)y / 5.0 - (double)x, 2.0);
