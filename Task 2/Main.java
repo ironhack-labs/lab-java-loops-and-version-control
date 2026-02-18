@@ -7,8 +7,8 @@ public class Main {
             return;
         }
         Arrays.sort(arr); 
-        System.out.println("Smallest: " + arr[0]);
-        System.out.println("Second Smallest: " + arr[1]);
+        System.out.println("Smallest one: " + arr[0]);
+        System.out.println("Second Smallest one: " + arr[1]);
     }
     public static void main(String[] args) {
         int[] arr = {3, 1, 4, 2, 5, 9};
