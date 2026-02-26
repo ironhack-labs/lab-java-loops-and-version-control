@@ -1,0 +1,61 @@
+Type: Employe
+Name: Elon
+Email: elon@gmail.com
+Age: 20
+Salary: 10000
+=================
+ Type: Inter
+Name: Mark
+Email: mark@gmail.com
+Age: 30
+Salary: 20000
+=================
+ Type: Employe
+Name: Jeff
+Email: jeff@gmail.com
+Age: 25
+Salary: 15000
+=================
+ Type: Employe
+Name: Edy
+Email: edy@gmail.com
+Age: 26
+Salary: 40000
+=================
+ Type: Employe
+Name: Piter
+Email: piter@gmail.com
+Age: 27
+Salary: 60000
+=================
+ Type: Inter
+Name: Anar
+Email: anar@gmail.com
+Age: 28
+Salary: 20000
+=================
+ Type: Employe
+Name: Yusuf
+Email: yusuf@gmail.com
+Age: 30
+Salary: 17000
+=================
+ Type: Employe
+Name: Elnur
+Email: elnur@gmail.com
+Age: 29
+Salary: 19000
+=================
+ Type: Employe
+Name: Briant
+Email: briant@gmail.com
+Age: 30
+Salary: 23000
+=================
+ Type: Inter
+Name: Mora
+Email: Mora@gmail.com
+Age: 20
+Salary: 20000
+=================
+ 

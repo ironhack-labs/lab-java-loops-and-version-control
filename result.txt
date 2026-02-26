@@ -1,0 +1,430 @@
+Name Janet Gaynor
+Year: 1928
+Movie: 22
+Age: Seventh Heaven Street Angel and Sunrise: A Song of Two Humans
+=====================
+Name Mary Pickford
+Year: 1929
+Movie: 37
+Age: Coquette
+=====================
+Name Norma Shearer
+Year: 1930
+Movie: 28
+Age: The Divorcee
+=====================
+Name Marie Dressler
+Year: 1931
+Movie: 63
+Age: Min and Bill
+=====================
+Name Helen Hayes
+Year: 1932
+Movie: 32
+Age: The Sin of Madelon Claudet
+=====================
+Name Katharine Hepburn
+Year: 1933
+Movie: 26
+Age: Morning Glory
+=====================
+Name Claudette Colbert
+Year: 1934
+Movie: 31
+Age: It Happened One Night
+=====================
+Name Bette Davis
+Year: 1935
+Movie: 27
+Age: Dangerous
+=====================
+Name Luise Rainer
+Year: 1936
+Movie: 27
+Age: The Great Ziegfeld
+=====================
+Name Luise Rainer
+Year: 1937
+Movie: 28
+Age: The Good Earth
+=====================
+Name Bette Davis
+Year: 1938
+Movie: 30
+Age: Jezebel
+=====================
+Name Vivien Leigh
+Year: 1939
+Movie: 26
+Age: Gone with the Wind
+=====================
+Name Ginger Rogers
+Year: 1940
+Movie: 29
+Age: Kitty Foyle
+=====================
+Name Joan Fontaine
+Year: 1941
+Movie: 24
+Age: Suspicion
+=====================
+Name Greer Garson
+Year: 1942
+Movie: 38
+Age: Mrs. Miniver
+=====================
+Name Jennifer Jones
+Year: 1943
+Movie: 25
+Age: The Song of Bernadette
+=====================
+Name Ingrid Bergman
+Year: 1944
+Movie: 29
+Age: Gaslight
+=====================
+Name Joan Crawford
+Year: 1945
+Movie: 40
+Age: Mildred Pierce
+=====================
+Name Olivia de Havilland
+Year: 1946
+Movie: 30
+Age: To Each His Own
+=====================
+Name Loretta Young
+Year: 1947
+Movie: 35
+Age: The Farmer's Daughter
+=====================
+Name Jane Wyman
+Year: 1948
+Movie: 32
+Age: Johnny Belinda
+=====================
+Name Olivia de Havilland
+Year: 1949
+Movie: 33
+Age: The Heiress
+=====================
+Name Judy Holliday
+Year: 1950
+Movie: 29
+Age: Born Yesterday
+=====================
+Name Vivien Leigh
+Year: 1951
+Movie: 38
+Age: A Streetcar Named Desire
+=====================
+Name Shirley Booth
+Year: 1952
+Movie: 54
+Age: Come Back
+=====================
+Name Audrey Hepburn
+Year: 1953
+Movie: 24
+Age: Roman Holiday
+=====================
+Name Grace Kelly
+Year: 1954
+Movie: 25
+Age: The Country Girl
+=====================
+Name Anna Magnani
+Year: 1955
+Movie: 48
+Age: The Rose Tattoo
+=====================
+Name Ingrid Bergman
+Year: 1956
+Movie: 41
+Age: Anastasia
+=====================
+Name Joanne Woodward
+Year: 1957
+Movie: 28
+Age: The Three Faces of Eve
+=====================
+Name Susan Hayward
+Year: 1958
+Movie: 41
+Age: I Want to Live!
+=====================
+Name Simone Signoret
+Year: 1959
+Movie: 39
+Age: Room at the Top
+=====================
+Name Elizabeth Taylor
+Year: 1960
+Movie: 29
+Age: BUtterfield 8
+=====================
+Name Sophia Loren
+Year: 1961
+Movie: 27
+Age: Two Women
+=====================
+Name Anne Bancroft
+Year: 1962
+Movie: 31
+Age: The Miracle Worker
+=====================
+Name Patricia Neal
+Year: 1963
+Movie: 31
+Age: Hud
+=====================
+Name Julie Andrews
+Year: 1964
+Movie: 29
+Age: Mary Poppins
+=====================
+Name Julie Christie
+Year: 1965
+Movie: 25
+Age: Darling
+=====================
+Name Elizabeth Taylor
+Year: 1966
+Movie: 35
+Age: Who's Afraid of Virginia Woolf?
+=====================
+Name Katharine Hepburn
+Year: 1967
+Movie: 60
+Age: Guess Who's Coming to Dinner
+=====================
+Name Katharine Hepburn
+Year: 1968
+Movie: 61
+Age: The Lion in Winter
+=====================
+Name Barbra Streisand
+Year: 1969
+Movie: 26
+Age: Funny Girl
+=====================
+Name Maggie Smith
+Year: 1970
+Movie: 35
+Age: The Prime of Miss Jean Brodie
+=====================
+Name Glenda Jackson
+Year: 1971
+Movie: 34
+Age: Women in Love
+=====================
+Name Jane Fonda
+Year: 1972
+Movie: 34
+Age: Klute
+=====================
+Name Liza Minnelli
+Year: 1973
+Movie: 27
+Age: Cabaret
+=====================
+Name Glenda Jackson
+Year: 1974
+Movie: 37
+Age: A Touch of Class
+=====================
+Name Ellen Burstyn
+Year: 1975
+Movie: 42
+Age: Alice Doesn't Live Here Anymore
+=====================
+Name Louise Fletcher
+Year: 1976
+Movie: 41
+Age: One Flew Over the Cuckoo's Nest
+=====================
+Name Faye Dunaway
+Year: 1977
+Movie: 36
+Age: Network
+=====================
+Name Diane Keaton
+Year: 1978
+Movie: 32
+Age: Annie Hall
+=====================
+Name Jane Fonda
+Year: 1979
+Movie: 41
+Age: Coming Home
+=====================
+Name Sally Field
+Year: 1980
+Movie: 33
+Age: Norma Rae
+=====================
+Name Sissy Spacek
+Year: 1981
+Movie: 31
+Age: Coal Miner's Daughter
+=====================
+Name Katharine Hepburn
+Year: 1982
+Movie: 74
+Age: On Golden Pond
+=====================
+Name Meryl Streep
+Year: 1983
+Movie: 33
+Age: Sophie's Choice
+=====================
+Name Shirley MacLaine
+Year: 1984
+Movie: 49
+Age: Terms of Endearment
+=====================
+Name Sally Field
+Year: 1985
+Movie: 38
+Age: Places in the Heart
+=====================
+Name Geraldine Page
+Year: 1986
+Movie: 61
+Age: The Trip to Bountiful
+=====================
+Name Marlee Matlin
+Year: 1987
+Movie: 21
+Age: Children of a Lesser God
+=====================
+Name Cher
+Year: 1988
+Movie: 41
+Age: Moonstruck
+=====================
+Name Jodie Foster
+Year: 1989
+Movie: 26
+Age: The Accused
+=====================
+Name Jessica Tandy
+Year: 1990
+Movie: 80
+Age: Driving Miss Daisy
+=====================
+Name Kathy Bates
+Year: 1991
+Movie: 42
+Age: Misery
+=====================
+Name Jodie Foster
+Year: 1992
+Movie: 29
+Age: The Silence of the Lambs
+=====================
+Name Emma Thompson
+Year: 1993
+Movie: 33
+Age: Howards End
+=====================
+Name Holly Hunter
+Year: 1994
+Movie: 36
+Age: The Piano
+=====================
+Name Jessica Lange
+Year: 1995
+Movie: 45
+Age: Blue Sky
+=====================
+Name Susan Sarandon
+Year: 1996
+Movie: 49
+Age: Dead Man Walking
+=====================
+Name Frances McDormand
+Year: 1997
+Movie: 39
+Age: Fargo
+=====================
+Name Helen Hunt
+Year: 1998
+Movie: 34
+Age: As Good as It Gets
+=====================
+Name Gwyneth Paltrow
+Year: 1999
+Movie: 26
+Age: Shakespeare in Love
+=====================
+Name Hilary Swank
+Year: 2000
+Movie: 25
+Age: Boys Don't Cry
+=====================
+Name Julia Roberts
+Year: 2001
+Movie: 33
+Age: Erin Brockovich
+=====================
+Name Halle Berry
+Year: 2002
+Movie: 35
+Age: Monster's Ball
+=====================
+Name Nicole Kidman
+Year: 2003
+Movie: 35
+Age: The Hours
+=====================
+Name Charlize Theron
+Year: 2004
+Movie: 28
+Age: Monster
+=====================
+Name Hilary Swank
+Year: 2005
+Movie: 30
+Age: Million Dollar Baby
+=====================
+Name Reese Witherspoon
+Year: 2006
+Movie: 29
+Age: Walk the Line
+=====================
+Name Helen Mirren
+Year: 2007
+Movie: 61
+Age: The Queen
+=====================
+Name Marion Cotillard
+Year: 2008
+Movie: 32
+Age: La Vie en rose
+=====================
+Name Kate Winslet
+Year: 2009
+Movie: 33
+Age: The Reader
+=====================
+Name Sandra Bullock
+Year: 2010
+Movie: 45
+Age: The Blind Side
+=====================
+Name Natalie Portman
+Year: 2011
+Movie: 29
+Age: Black Swan
+=====================
+Name Meryl Streep
+Year: 2012
+Movie: 62
+Age: The Iron Lady
+=====================
+Name Jennifer Lawrence
+Year: 2013
+Movie: 22
+Age: Silver Linings Playbook
+====================
